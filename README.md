@@ -1,2 +1,2 @@
 # Advanced-keylogger
-Keylogger which aims transcends a basic keylogger
+Keylogger which aims to transcends a basic keylogger without affecting functionality.
