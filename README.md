@@ -1,3 +1,2 @@
 # Advanced-keylogger
-Works on Win 10,11 with real-time protection disabled only.
-/////Deprecated
+Works on Win 7,10,11 with real-time protection disabled only.
